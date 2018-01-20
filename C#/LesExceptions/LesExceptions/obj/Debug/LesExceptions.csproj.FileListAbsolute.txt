@@ -1,0 +1,9 @@
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\C#\LesExceptions\LesExceptions\bin\Debug\LesExceptions.exe.config
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\C#\LesExceptions\LesExceptions\bin\Debug\LesExceptions.exe
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\C#\LesExceptions\LesExceptions\bin\Debug\LesExceptions.pdb
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\C#\LesExceptions\LesExceptions\obj\Debug\LesExceptions.csprojResolveAssemblyReference.cache
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\C#\LesExceptions\LesExceptions\obj\Debug\LesExceptions.exe
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\C#\LesExceptions\LesExceptions\obj\Debug\LesExceptions.pdb
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\LesExceptions\LesExceptions\bin\Debug\LesExceptions.exe.config
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\LesExceptions\LesExceptions\obj\Debug\LesExceptions.exe
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\LesExceptions\LesExceptions\obj\Debug\LesExceptions.csprojResolveAssemblyReference.cache

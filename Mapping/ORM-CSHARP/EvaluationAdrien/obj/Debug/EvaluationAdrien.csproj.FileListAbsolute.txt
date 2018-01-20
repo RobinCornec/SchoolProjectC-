@@ -1,0 +1,6 @@
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\EvaluationAdrien\bin\Debug\EvaluationAdrien.exe.config
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\EvaluationAdrien\bin\Debug\EvaluationAdrien.exe
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\EvaluationAdrien\bin\Debug\EvaluationAdrien.pdb
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\EvaluationAdrien\obj\Debug\EvaluationAdrien.csprojResolveAssemblyReference.cache
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\EvaluationAdrien\obj\Debug\EvaluationAdrien.exe
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\EvaluationAdrien\obj\Debug\EvaluationAdrien.pdb

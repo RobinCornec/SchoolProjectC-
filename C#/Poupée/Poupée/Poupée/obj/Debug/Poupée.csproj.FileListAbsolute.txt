@@ -1,0 +1,25 @@
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\Poupée\Poupée\bin\Debug\Poupée.exe.config
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\Poupée\Poupée\bin\Debug\Poupée.exe
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\Poupée\Poupée\bin\Debug\Poupée.pdb
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\Poupée\Poupée\obj\Debug\Poupée.csprojResolveAssemblyReference.cache
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\Poupée\Poupée\obj\Debug\Poupée.exe
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\Poupée\Poupée\obj\Debug\Poupée.pdb
+C:\Users\Antoine\Documents\Cours\Algo\Poupée\Poupée\Poupée\bin\Debug\Poupée.exe.config
+C:\Users\Antoine\Documents\Cours\Algo\Poupée\Poupée\Poupée\obj\Debug\Poupée.exe
+C:\Users\Antoine\Documents\Cours\Algo\Poupée\Poupée\Poupée\obj\Debug\Poupée.pdb
+C:\Users\Antoine\Documents\Cours\Algo\Poupée\Poupée\Poupée\bin\Debug\Poupée.exe
+C:\Users\Antoine\Documents\Cours\Algo\Poupée\Poupée\Poupée\bin\Debug\Poupée.pdb
+C:\Users\Antoine\Documents\Cours\Algo\Poupée\Poupée\Poupée\obj\Debug\Poupée.csprojResolveAssemblyReference.cache
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\Poupée\Poupée\Poupée\bin\Debug\Poupée.exe.config
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\Poupée\Poupée\Poupée\obj\Debug\Poupée.exe
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\Poupée\Poupée\Poupée\obj\Debug\Poupée.pdb
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\Poupée\Poupée\Poupée\bin\Debug\Poupée.exe
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\Poupée\Poupée\Poupée\bin\Debug\Poupée.pdb
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\Poupée\Poupée\Poupée\obj\Debug\Poupée.csprojResolveAssemblyReference.cache
+F:\Robin\B2\Projets\Développement\C#\Poupée\Poupée\Poupée\bin\Debug\Poupée.exe.config
+F:\Robin\B2\Projets\Développement\C#\Poupée\Poupée\Poupée\bin\Debug\Poupée.exe
+F:\Robin\B2\Projets\Développement\C#\Poupée\Poupée\Poupée\bin\Debug\Poupée.pdb
+F:\Robin\B2\Projets\Développement\C#\Poupée\Poupée\Poupée\obj\Debug\Poupée.csprojResolveAssemblyReference.cache
+F:\Robin\B2\Projets\Développement\C#\Poupée\Poupée\Poupée\obj\Debug\Poupée.csproj.CoreCompileInputs.cache
+F:\Robin\B2\Projets\Développement\C#\Poupée\Poupée\Poupée\obj\Debug\Poupée.exe
+F:\Robin\B2\Projets\Développement\C#\Poupée\Poupée\Poupée\obj\Debug\Poupée.pdb

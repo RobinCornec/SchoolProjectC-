@@ -1,0 +1,14 @@
+C:\Users\Antoine\Documents\Cours\Algo\Poupée\Poupée\TUBoiteAMusique\bin\Debug\TUBoiteAMusique.dll
+C:\Users\Antoine\Documents\Cours\Algo\Poupée\Poupée\TUBoiteAMusique\bin\Debug\TUBoiteAMusique.pdb
+C:\Users\Antoine\Documents\Cours\Algo\Poupée\Poupée\TUBoiteAMusique\bin\Debug\Poupée.exe
+C:\Users\Antoine\Documents\Cours\Algo\Poupée\Poupée\TUBoiteAMusique\bin\Debug\Poupée.pdb
+C:\Users\Antoine\Documents\Cours\Algo\Poupée\Poupée\TUBoiteAMusique\obj\Debug\TUBoiteAMusique.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\Documents\Cours\Algo\Poupée\Poupée\TUBoiteAMusique\obj\Debug\TUBoiteAMusique.dll
+C:\Users\Antoine\Documents\Cours\Algo\Poupée\Poupée\TUBoiteAMusique\obj\Debug\TUBoiteAMusique.pdb
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\Poupée\Poupée\TUBoiteAMusique\bin\Debug\TUBoiteAMusique.dll
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\Poupée\Poupée\TUBoiteAMusique\bin\Debug\TUBoiteAMusique.pdb
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\Poupée\Poupée\TUBoiteAMusique\bin\Debug\Poupée.exe
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\Poupée\Poupée\TUBoiteAMusique\bin\Debug\Poupée.pdb
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\Poupée\Poupée\TUBoiteAMusique\obj\Debug\TUBoiteAMusique.csprojResolveAssemblyReference.cache
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\Poupée\Poupée\TUBoiteAMusique\obj\Debug\TUBoiteAMusique.dll
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\Poupée\Poupée\TUBoiteAMusique\obj\Debug\TUBoiteAMusique.pdb

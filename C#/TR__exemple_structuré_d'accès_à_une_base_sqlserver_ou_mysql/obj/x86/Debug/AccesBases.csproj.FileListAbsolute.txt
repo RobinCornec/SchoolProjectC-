@@ -1,0 +1,6 @@
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\TR__exemple_structuré_d'accès_à_une_base_sqlserver_ou_mysql\obj\x86\Debug\AccesBases.csprojResolveAssemblyReference.cache
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\TR__exemple_structuré_d'accès_à_une_base_sqlserver_ou_mysql\obj\x86\Debug\AccesBases.Form1.resources
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\TR__exemple_structuré_d'accès_à_une_base_sqlserver_ou_mysql\obj\x86\Debug\AccesBases.csproj.GenerateResource.Cache
+C:\Users\Robin\Documents\Robin\B2\Projets\Développement\C#\TR__exemple_structuré_d'accès_à_une_base_sqlserver_ou_mysql\obj\x86\Debug\AccesBases.csprojResolveAssemblyReference.cache
+C:\Users\Robin\Documents\Robin\B2\Projets\Développement\C#\TR__exemple_structuré_d'accès_à_une_base_sqlserver_ou_mysql\obj\x86\Debug\AccesBases.Form1.resources
+C:\Users\Robin\Documents\Robin\B2\Projets\Développement\C#\TR__exemple_structuré_d'accès_à_une_base_sqlserver_ou_mysql\obj\x86\Debug\AccesBases.csproj.GenerateResource.Cache

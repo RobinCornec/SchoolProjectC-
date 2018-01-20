@@ -1,0 +1,16 @@
+C:\Users\Alan\hubiC\Client en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeometrie\bin\Debug\TestGeometrie.exe.config
+C:\Users\Alan\hubiC\Client en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeometrie\bin\Debug\TestGeometrie.exe
+C:\Users\Alan\hubiC\Client en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeometrie\bin\Debug\TestGeometrie.pdb
+C:\Users\Alan\hubiC\Client en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeometrie\bin\Debug\Geometrie.dll
+C:\Users\Alan\hubiC\Client en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeometrie\bin\Debug\Geometrie.pdb
+C:\Users\Alan\hubiC\Client en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeometrie\obj\Debug\TestGeometrie.csprojResolveAssemblyReference.cache
+C:\Users\Alan\hubiC\Client en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeometrie\obj\Debug\TestGeometrie.exe
+C:\Users\Alan\hubiC\Client en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeometrie\obj\Debug\TestGeometrie.pdb
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeometrie\bin\Debug\TestGeometrie.exe.config
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeometrie\bin\Debug\TestGeometrie.exe
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeometrie\bin\Debug\TestGeometrie.pdb
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeometrie\bin\Debug\Geometrie.dll
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeometrie\bin\Debug\Geometrie.pdb
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeometrie\obj\Debug\TestGeometrie.csprojResolveAssemblyReference.cache
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeometrie\obj\Debug\TestGeometrie.exe
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeometrie\obj\Debug\TestGeometrie.pdb

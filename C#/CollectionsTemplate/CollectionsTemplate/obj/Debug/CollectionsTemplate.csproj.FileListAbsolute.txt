@@ -1,0 +1,13 @@
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\CollectionsTemplate\CollectionsTemplate\bin\Debug\CollectionsTemplate.exe.config
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\CollectionsTemplate\CollectionsTemplate\obj\Debug\CollectionsTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\CollectionsTemplate\CollectionsTemplate\obj\Debug\CollectionsTemplate.Form1.resources
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\CollectionsTemplate\CollectionsTemplate\obj\Debug\CollectionsTemplate.Properties.Resources.resources
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\CollectionsTemplate\CollectionsTemplate\obj\Debug\CollectionsTemplate.csproj.GenerateResource.Cache
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\CollectionsTemplate\CollectionsTemplate\bin\Debug\CollectionsTemplate.exe
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\CollectionsTemplate\CollectionsTemplate\bin\Debug\CollectionsTemplate.pdb
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\CollectionsTemplate\CollectionsTemplate\obj\Debug\CollectionsTemplate.exe
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\CollectionsTemplate\CollectionsTemplate\obj\Debug\CollectionsTemplate.pdb
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\CollectionsTemplate\CollectionsTemplate\bin\Debug\CollectionsTemplate.exe.manifest
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\CollectionsTemplate\CollectionsTemplate\bin\Debug\CollectionsTemplate.application
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\CollectionsTemplate\CollectionsTemplate\obj\Debug\CollectionsTemplate.exe.manifest
+C:\Users\Robin Cornec\Documents\Robin\B2\Projets\Développement\C#\CollectionsTemplate\CollectionsTemplate\obj\Debug\CollectionsTemplate.application

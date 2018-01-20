@@ -1,0 +1,6 @@
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\LINQToSQL\bin\Debug\LINQToSQL.exe.config
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\LINQToSQL\bin\Debug\LINQToSQL.exe
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\LINQToSQL\bin\Debug\LINQToSQL.pdb
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\LINQToSQL\obj\Debug\LINQToSQL.csprojResolveAssemblyReference.cache
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\LINQToSQL\obj\Debug\LINQToSQL.exe
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\LINQToSQL\obj\Debug\LINQToSQL.pdb

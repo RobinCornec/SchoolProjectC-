@@ -1,0 +1,6 @@
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\SyntaxeLINQ\bin\Debug\SyntaxeLINQ.exe.config
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\SyntaxeLINQ\bin\Debug\SyntaxeLINQ.exe
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\SyntaxeLINQ\bin\Debug\SyntaxeLINQ.pdb
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\SyntaxeLINQ\obj\Debug\SyntaxeLINQ.csprojResolveAssemblyReference.cache
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\SyntaxeLINQ\obj\Debug\SyntaxeLINQ.exe
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\SyntaxeLINQ\obj\Debug\SyntaxeLINQ.pdb

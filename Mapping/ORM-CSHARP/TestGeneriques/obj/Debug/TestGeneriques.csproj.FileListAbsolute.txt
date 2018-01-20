@@ -1,0 +1,16 @@
+C:\Users\Alan\hubiC\Client en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeneriques\bin\Debug\TestGeneriques.exe.config
+C:\Users\Alan\hubiC\Client en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeneriques\obj\Debug\TestGeneriques.csprojResolveAssemblyReference.cache
+C:\Users\Alan\hubiC\Client en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeneriques\bin\Debug\TestGeneriques.exe
+C:\Users\Alan\hubiC\Client en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeneriques\bin\Debug\TestGeneriques.pdb
+C:\Users\Alan\hubiC\Client en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeneriques\bin\Debug\Geometrie.dll
+C:\Users\Alan\hubiC\Client en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeneriques\bin\Debug\Geometrie.pdb
+C:\Users\Alan\hubiC\Client en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeneriques\obj\Debug\TestGeneriques.exe
+C:\Users\Alan\hubiC\Client en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeneriques\obj\Debug\TestGeneriques.pdb
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeneriques\bin\Debug\TestGeneriques.exe.config
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeneriques\obj\Debug\TestGeneriques.exe
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeneriques\obj\Debug\TestGeneriques.pdb
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeneriques\bin\Debug\TestGeneriques.exe
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeneriques\bin\Debug\TestGeneriques.pdb
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeneriques\bin\Debug\Geometrie.dll
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeneriques\bin\Debug\Geometrie.pdb
+C:\Users\Alan\SkyDrive\Clients en cours\EPSI\2014-2015\B2\ORM-CSHARP\TestGeneriques\obj\Debug\TestGeneriques.csprojResolveAssemblyReference.cache
